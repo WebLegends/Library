@@ -2,7 +2,7 @@
 
 A library of helpful resources for development and testing
 
-# Hacktoberfest 2020 Contribution Instruction
+# Hacktoberfest 2020
 
 [Contribution guidelines for this project](docs/CONTRIBUTING.md)
 
