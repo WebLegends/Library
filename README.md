@@ -4,7 +4,9 @@ A library of helpful resources for development and testing
 
 # Hacktoberfest 2020
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](https://github.com/WebLegends/Library/wiki/Hacktoberfest-2020)
+
+[DevOps](https://github.com/WebLegends/Library/tree/main/DevOps)
 
 # Contributing
 Contributions are most welcome!
