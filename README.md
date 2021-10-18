@@ -2,7 +2,9 @@
 
 A library of helpful resources for development and testing
 
-# Hacktoberfest 2020
+# Hacktoberfest 2021
+
+Hacktoberfest, in its 8th year, is a month-long celebration of open source software run by DigitalOcean. During the month of October, we invite you to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects. [More information](https://hacktoberfest.digitalocean.com)
 
 [Contribution guidelines for this project](https://github.com/WebLegends/Library/wiki/Hacktoberfest-2020)
 
