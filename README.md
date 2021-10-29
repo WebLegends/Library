@@ -8,9 +8,13 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
 
 [Contribution guidelines for this project](https://github.com/WebLegends/Library/wiki/Hacktoberfest-2020)
 
+[Architecture](https://github.com/WebLegends/Library/tree/main/Architecture)
+
 [DevOps](https://github.com/WebLegends/Library/tree/main/DevOps)  
 
 [ML](https://github.com/WebLegends/Library/tree/main/ML)
+
+[Rust](https://github.com/WebLegends/Library/tree/main/Rust)
 
 # Contributing
 Contributions are most welcome!
