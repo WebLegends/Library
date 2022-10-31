@@ -20,6 +20,10 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
 
 [SystemDesign](https://github.com/WebLegends/Library/tree/main/SystemDesign)
 
+[Business](https://github.com/WebLegends/Library/tree/main/Business)
+
+[Functional](https://github.com/WebLegends/Library/tree/main/Functional)
+
 # Contributing
 Contributions are most welcome!
 
