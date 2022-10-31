@@ -18,6 +18,8 @@ Hacktoberfest, in its 8th year, is a month-long celebration of open source softw
 
 [Blockchain](https://github.com/WebLegends/Library/tree/main/Blockchain)
 
+[Functional](https://github.com/WebLegends/Library/tree/main/Functional)
+
 # Contributing
 Contributions are most welcome!
 
